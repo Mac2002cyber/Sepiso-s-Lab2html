@@ -1,0 +1,1 @@
+This is Lab 2 of the web development class we learnt more html semantics and the layout of a web page, as well as adding a contact form to the wed page and how  to make use of W3C Validor on my html code and pushing the code to github 
